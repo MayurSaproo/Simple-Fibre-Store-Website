@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(27, 16, 2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15rem;
+}
+
+
+:root{
+    --v:rgb(217, 180, 211);
+}
+.cont{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    height: 550px;
+    width: 350px;
+    border-radius: 1rem 0rem 0rem 1rem;
+}
+
+.text1{
+    
+    border-radius: 1rem 0rem 0rem 1rem;
+}
+
+.text2{
+    border-radius: 0rem 1rem 1rem 0rem;
+
+    width: 328px;
+    height: 506px;
+    background-color:bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 22px;
+}
+input{
+    border-radius: 1rem;
+    width: 318px;
+    height: 25px;
+}
+button{
+    margin-top: 5rem;
+    height: 2rem;
+    margin-left:140px ;
+    margin-right: 140px;
+    width: 48px;
+    border-radius: 1rem;
+}
+p{
+    font-size: 1.25rem;
+    margin-left: 6rem;
+    margin-right:6rem ;
+   
+
+}
+h2{
+    font-size: 3rem;
+    color: azure;
+}
