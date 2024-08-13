@@ -1,0 +1,39 @@
+body{
+    
+    margin-top: 8rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+.cont{
+    border-radius: 1rem;
+    background-color:transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-right: auto;
+    margin-left: auto;
+    width: 480px;
+
+}
+iframe{
+    border-radius: 1rem;
+    width: 400px;
+    height: 600px;
+}
+h2{
+    color:transparent;
+    justify-items: center;
+    font-size: 59px;
+    background:linear-gradient(to right, rgba(166, 4, 236, 0.819), rgb(9, 167, 235));
+    background-clip: text;
+}
+button{
+    border-radius: 2rem;
+    height: 55px;
+    background-color: rgb(64, 130, 246);
+    margin: 1rem;
+    width: 450px;
+}
